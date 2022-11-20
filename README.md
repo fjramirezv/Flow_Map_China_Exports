@@ -10,7 +10,7 @@ El dataset original se ha recortado para mostrar sólo la información relevante
 **Creado por:** Francisco José Ramírez Vicente
 
 **Realizado con:**
-Flow Map Blue](https://flowmap.blue)
+[Flow Map Blue](https://flowmap.blue)
 
 **Fuente de datos:**
 [China Exports 2020 to the World](https://wits.worldbank.org/CountryProfile/en/Country/CHN/Year/2020/TradeFlow/Export/Partner/by-country/Product/Total#)
